@@ -1,0 +1,26 @@
+22-06-18 12:10:20-05 Loading /home/kes/development/muddev/evennia/evennia/server/server.py...
+22-06-18 12:10:22-05 Loaded.
+22-06-18 12:10:22-05 twistd 21.7.0 (/home/kes/development/muddev/evenv/bin/python 3.10.5) starting up.
+22-06-18 12:10:22-05 reactor class: twisted.internet.epollreactor.EPollReactor.
+22-06-18 12:10:22-05 Webserver starting on 4005
+22-06-18 12:10:22-05 [..] Initial setup: Creating objects (Account #1 and Limbo room) ...
+22-06-18 12:10:22-05 [..] Initial setup: Creating default channels ...
+22-06-18 12:10:22-05 [..] Initial setup: Running at_initial_setup() hook.
+22-06-18 12:10:22-05 [..] Initial setup: Gathering static resources using 'collectstatic'
+22-06-18 12:10:22-05 
+22-06-18 12:10:22-05 0 static files copied to '/home/kes/development/muddev/mygame/web/static', 165 unmodified.
+22-06-18 12:10:22-05 [..] Initial setup complete. Restarting Server once.
+22-06-18 12:10:22-05 Evennia Server successfully started.
+22-06-18 12:10:23-05 [..] Server disconnected from the portal.
+22-06-18 12:10:23-05 Main loop terminated.
+22-06-18 12:10:23-05 Server Shut Down.
+22-06-18 12:10:24-05 Loading /home/kes/development/muddev/evennia/evennia/server/server.py...
+22-06-18 12:10:25-05 Loaded.
+22-06-18 12:10:25-05 twistd 21.7.0 (/home/kes/development/muddev/evenv/bin/python 3.10.5) starting up.
+22-06-18 12:10:25-05 reactor class: twisted.internet.epollreactor.EPollReactor.
+22-06-18 12:10:25-05 Webserver starting on 4005
+22-06-18 12:10:25-05 Evennia Server successfully restarted in 'reset' mode.
+22-06-18 12:19:25-05 [WW] Warning: Idmapper flush called more than once in 5.0 min interval. Check memory usage.
+22-06-18 12:55:54-05 [..] Server disconnected from the portal.
+22-06-18 12:55:54-05 Main loop terminated.
+22-06-18 12:55:54-05 Server Shut Down.

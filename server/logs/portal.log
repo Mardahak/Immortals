@@ -1,0 +1,22 @@
+22-06-18 12:10:18-05  |Portal| Loading /home/kes/development/muddev/evennia/evennia/server/portal/portal.py...
+22-06-18 12:10:20-05  |Portal| Loaded.
+22-06-18 12:10:20-05  |Portal| twistd 21.7.0 (/home/kes/development/muddev/evenv/bin/python 3.10.5) starting up.
+22-06-18 12:10:20-05  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+22-06-18 12:10:20-05  |Portal| AMP starting on 4006
+22-06-18 12:10:20-05  |Portal| Telnet starting on 4000
+22-06-18 12:10:20-05  |Portal| Websocket starting on 4002
+22-06-18 12:10:20-05  |Portal| Webserver-proxy starting on 4001
+22-06-18 12:10:20-05  |Portal| Portal starting server ... 
+22-06-18 12:10:23-05  |Portal| Portal starting server ... 
+22-06-18 12:13:16-05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=51204)
+22-06-18 12:13:16-05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=51236)
+22-06-18 12:13:16-05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=51220)
+22-06-18 12:13:16-05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58984)
+22-06-18 12:13:19-05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=51248)
+22-06-18 12:13:21-05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58976)
+22-06-18 12:55:54-05  |Portal| (TCP Port 4001 Closed)
+22-06-18 12:55:54-05  |Portal| (TCP Port 4002 Closed)
+22-06-18 12:55:54-05  |Portal| (TCP Port 4000 Closed)
+22-06-18 12:55:54-05  |Portal| (TCP Port 4006 Closed)
+22-06-18 12:55:54-05  |Portal| Main loop terminated.
+22-06-18 12:55:54-05  |Portal| Server Shut Down.
